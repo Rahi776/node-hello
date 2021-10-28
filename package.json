@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rahi776/node-hello/issues"
   },
-  "homepage": "https://github.com/Rahi776/node-hello#readme"
+  "homepage": "https://github.com/Rahi776/node-hello#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
